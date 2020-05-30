@@ -2,7 +2,6 @@
 
 Criar uma api em Python usando [Flask](https://flask-ptbr.readthedocs.io/en/latest/), um micro-framework multiplataforma que provê um modelo simples para a criação de microsserviços, como APIs RESTful.
 
-Instruções retiradas do vídeo [Tutorial Python e Flask](https://www.youtube.com/watch?v=N6cZ6aHvLYs)
 
 ### Resultados
 
@@ -33,3 +32,6 @@ Criado um arquivo com as seguintes informações para que fossem manipuladas e c
 ```
 
 #### Rodando localmente
+
+
+Instruções retiradas do vídeo [Tutorial Python e Flask](https://www.youtube.com/watch?v=N6cZ6aHvLYs). 
