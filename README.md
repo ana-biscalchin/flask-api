@@ -33,5 +33,8 @@ Criado um arquivo com as seguintes informações para que fossem manipuladas e c
 
 #### Rodando localmente
 
+Clone o repositório, entre na pasta `flask-api`e execute: 
+`python app.py`
+
 
 Instruções retiradas do vídeo [Tutorial Python e Flask](https://www.youtube.com/watch?v=N6cZ6aHvLYs). 
